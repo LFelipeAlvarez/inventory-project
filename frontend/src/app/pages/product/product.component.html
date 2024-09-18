@@ -1,0 +1,40 @@
+<div class="mat-elevation-z2"
+  style="width: 30%; padding: 30px; margin: 50px auto; display: flex;justify-content: center;">
+  <form [formGroup]="productForm">
+    <div class="flex">
+      <mat-form-field>
+        <mat-label>Nombre </mat-label>
+        <input matInput formControlName="name">
+      </mat-form-field>
+    </div>
+    <div class="flex">
+      <mat-form-field>
+        <mat-label>Precio</mat-label>
+        <input matInput formControlName="price">
+      </mat-form-field>
+    </div>
+    <div class="flex">
+      <mat-form-field>
+        <mat-label>Cantidad</mat-label>
+        <input matInput type="number" formControlName="quantity">
+      </mat-form-field>
+    </div>
+    <div class="flex">
+      <mat-form-field>
+        <mat-label>Estado</mat-label>
+        <mat-select [(value)]="selected" formControlName="productStatus">
+          @for (status of status; track status) {
+          <mat-option [value]="status.value">{{status.viewValue}}</mat-option>
+          }
+        </mat-select>
+      </mat-form-field>
+    </div>
+
+    <div class="flex">
+      <button mat-flat-button color="primary" (click)="save()">Guardar</button>
+      <button mat-flat-button color="warn" (click)="goBack()" style="margin-left: 8px;">Volver</button>
+    </div>
+
+  </form>
+
+</div>

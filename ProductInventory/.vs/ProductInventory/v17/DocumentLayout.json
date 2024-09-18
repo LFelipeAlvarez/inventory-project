@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felipe\\source\\repos\\ProductInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12E90D9F-3432-4383-B991-325AEFB9BC4F}|DataAccess\\DataAccess.csproj|c:\\users\\felipe\\source\\repos\\productinventory\\dataaccess\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E90D9F-3432-4383-B991-325AEFB9BC4F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92459F77-6721-4F09-925A-129F0B55C3D0}|Business\\Business.csproj|c:\\users\\felipe\\source\\repos\\productinventory\\business\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92459F77-6721-4F09-925A-129F0B55C3D0}|Business\\Business.csproj|solutionrelative:business\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7280294B-F1E9-4D7F-8E04-B09E9171E8AF}|Presentation\\Presentation.csproj|c:\\users\\felipe\\source\\repos\\productinventory\\presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7280294B-F1E9-4D7F-8E04-B09E9171E8AF}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7280294B-F1E9-4D7F-8E04-B09E9171E8AF}|Presentation\\Presentation.csproj|c:\\users\\felipe\\source\\repos\\productinventory\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7280294B-F1E9-4D7F-8E04-B09E9171E8AF}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\ProductInventory\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\ProductInventory\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:56:56.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\ProductInventory\\Business\\ProductService.cs",
+              "RelativeDocumentMoniker": "Business\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\ProductInventory\\Business\\ProductService.cs",
+              "RelativeToolTip": "Business\\ProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwB4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:38:45.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\ProductInventory\\DataAccess\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\ProductInventory\\DataAccess\\ProductRepository.cs",
+              "RelativeToolTip": "DataAccess\\ProductRepository.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:04:33.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\ProductInventory\\Presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\ProductInventory\\Presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:01:28.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
